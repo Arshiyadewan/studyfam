@@ -1,9 +1,9 @@
 ##Problem statement
-Many students struggle to find suitable study partners or groups to share skills , learn and teach collaboratively 
-StudyFam was created to solve this . It brings students together who want to learn and those eager to teach, all in one supportive , organised space. By making it easy to form, join and manage study groups 
+ Many students struggle to find suitable study partners or groups to share skills , learn and teach collaboratively 
+ StudyFam was created to solve this . It brings students together who want to learn and those eager to teach, all in one supportive , organised space. By making it     easy to form, join and manage study groups 
 
 ##Scope of the project
-The project focuses on a command line application to register users, create and join skill groups,view existing groups , view member profiles , and rate peers
+ The project focuses on a command line application to register users, create and join skill groups,view existing groups , view member profiles , and rate peers
 
 ##Target Users
 1. Student looking for study parrtners to enhance learning
